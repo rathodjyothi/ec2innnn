@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0233c2d874b811deb --count 1 --instance-type t2.micro --key-name jyothi --security-groups linux --region us-east-2
